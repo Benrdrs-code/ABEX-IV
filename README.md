@@ -3,8 +3,8 @@ Trabalho desenvolvido pelos alunos do 3° periodo do Curso de ciencia da Computa
 
 ALUNOS:
 
-Bernardo Rodrigues
-Igor Menuncin
-Kelvia kolln
-Gustavo Pohlmann
-Lucas De Souza Toledo
+Bernardo Rodrigues,
+Igor Menuncin,
+Kelvia kolln,
+Gustavo Pohlmann,
+Lucas De Souza Toledo;
